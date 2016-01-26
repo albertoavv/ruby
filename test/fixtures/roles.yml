@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  rid: 1
+  role: MyString
+  status: 1
+  date_create: 
+  date_update: 
+
+two:
+  rid: 1
+  role: MyString
+  status: 1
+  date_create: 
+  date_update: 
